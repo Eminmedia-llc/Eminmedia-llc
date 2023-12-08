@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eminmedia-llc
+- 👋 Hi, I’m Amin @Eminmedia-llc
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning basic coding and AI integrations
 - 💞️ I’m looking to collaborate on building new AI projects
